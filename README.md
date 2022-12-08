@@ -9,3 +9,8 @@
 6. selectDate 에서 날짜 아직 없을 시 처리
 7. selectTime 에서 시간이 선택 안되었을시 처리
 8. reserveSeat 함수 구현 및 죄석 이미 예약 시 처리
+
+
+## ENV 구성 (.env 파일 생성 할 것)
+CGV_LOGIN_ID="CGV 로그인 아이디"
+CGV_LOGIN_PW="CGV 로그인 비번"
